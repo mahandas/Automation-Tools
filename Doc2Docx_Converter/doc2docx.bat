@@ -1,0 +1,2 @@
+python C:\Users\mahan.das\AppData\Local\Programs\Python\Python36\Doc2DocxConverter.py C:\Users\mahan.das\AppData\Local\Programs\Python\Python36\102.doc C:\Users\mahan.das\AppData\Local\Programs\Python\Python36\log.txt
+pause
